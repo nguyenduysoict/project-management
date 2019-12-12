@@ -1,0 +1,4 @@
+sửa lại cách thể hiện mục lục,
+kết quả đạt được đưa mục riêng,
+trình bày đầy đủ các use case, các bảng trong cơ sở dữ liệu
+đưa thiết kế cơ sở dữ liệu lên trên
